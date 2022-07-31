@@ -32,7 +32,8 @@ clear.sh
 ```
 Windows or MAC OS:
 ```bash
-python manage.py runserver will suffice. 
+python manage.py runserver 
+# Entering this command in the terminal will suffice. 
 ```
 ## Radar Subsection Notes
 
