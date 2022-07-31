@@ -25,6 +25,7 @@ The Command subsystem allows the users to control the motion of the rover throug
 ## To run the code:
 (With bash scripting) Run launch.sh &lt;ip address> to run the web application <br>
 To clear database run clear.sh
+
 Alternatively: python manage.py runserver will suffice. 
 
 ## Radar Subsection Notes
