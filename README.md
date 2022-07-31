@@ -7,6 +7,7 @@ https://user-images.githubusercontent.com/73653114/182037953-e8d1f93e-0e0c-4b1b-
 ## Contributors
 
 Our work was coordinated using a flat structure to improve communications and creative thinking. Here, each member decided which subsystem they primarily wanted to develop with all team members working together to integrate the subsystems.  
+
 James (Command & Control),
 Matthew (Control & Vision),
 Charmaine (Command & Control),
