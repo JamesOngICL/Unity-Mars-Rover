@@ -5,13 +5,15 @@ This repository contains the files developed during the Year 2 End of Year Proje
 https://user-images.githubusercontent.com/73653114/182037953-e8d1f93e-0e0c-4b1b-aa35-7ad135c4f402.mp4
 
 ## Contributors
-James,
-Matthew,
-Charmaine,
-Himanish,
-Milan,
-Kelvin,
-Amy
+
+Our work was coordinated using a flat structure to improve communications and creative thinking. Here, each member decided which subsystem they primarily wanted to develop with all team members working together to integrate the subsystems.  
+James (Command & Control),
+Matthew (Control & Vision),
+Charmaine (Command & Control),
+Himanish (Vision),
+Milan (Control & Drive),
+Kelvin (Energy),
+Amy (Drive & Radar)
 
 ## Drive Subsection Notes
 Please install on platform.io (MFRC522), Wifi (Jake Merz), Sparkfun libraries onto system. Start by running the server by running python/python3 server.py. Then input the values to be input into control the rover. The documentation is expressed in quite an easy readable way.
