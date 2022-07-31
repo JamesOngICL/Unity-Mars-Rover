@@ -22,8 +22,10 @@ Please install on platform.io (MFRC522), Wifi (Jake Merz), Sparkfun libraries on
 ## Command Subsection Notes
 The Command subsystem allows the users to control the motion of the rover through a web application and also displays data retrieved from the rover. It consists of a database in django which stores tile information amongst other map attributes and uses frontend technologies (HTML,CSS, Javascript) for displays and backend technologies in python to display information. 
 
-Run launch.sh &lt;ip address> to run the web application <br>
+## To run the code:
+(With bash scripting) Run launch.sh &lt;ip address> to run the web application <br>
 To clear database run clear.sh
+Alternatively: python manage.py runserver will suffice. 
 
 ## Radar Subsection Notes
 
