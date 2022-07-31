@@ -1,4 +1,6 @@
 # Unity Rover
+https://user-images.githubusercontent.com/73653114/182037953-e8d1f93e-0e0c-4b1b-aa35-7ad135c4f402.mp4
+
 This repository contains the files developed during the Year 2 End of Year Project (ELEC50008/ELEC50003). The Unity Rover is produced by group IC-CPA2. The project involves several key constituents to be able to simulate a robot which is capable of making autonomous exploration decisions based on the inputs it received through sensors. Here, the constituents include a vision recognizer to identify shape and colour of objects as well as command which sends movement commands through the front end for control of the rover as well as energy, drive and sensor functionalities. 
 
 ## Contributors
