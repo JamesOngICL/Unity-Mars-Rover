@@ -37,4 +37,4 @@ python manage.py runserver
 ```
 ## Radar Subsection Notes
 
-The purpose of this subsystem is to use the HB100 Doppler radar module to detect a rotating fan located underground. A reflected harmonic signal should be received when the rotating fan is under the rover. The radar developed is fully operational and functional with code primarily contained in a radar.h file, however, this was not been integrated fully with other subsystems (as it was not required on demonstration). 
+The purpose of this subsystem is to use the HB100 Doppler radar module to detect a rotating fan located underground. A reflected harmonic signal should be received when the rotating fan is under the rover. The radar developed is fully operational and functional (sample code has 2V tolerance on radar) with the code primarily contained in a radar.h file, however, this code was not integrated fully with other subsystems (as it was not required on demonstration). 
