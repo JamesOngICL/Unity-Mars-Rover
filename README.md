@@ -23,11 +23,17 @@ Please install on platform.io (MFRC522), Wifi (Jake Merz), Sparkfun libraries on
 The Command subsystem allows the users to control the motion of the rover through a web application and also displays data retrieved from the rover. It consists of a database in django which stores tile information amongst other map attributes and uses frontend technologies (HTML,CSS, Javascript) for displays and backend technologies in python to display information. 
 
 ## To run the code:
-(With bash scripting) Run launch.sh &lt;ip address> to run the web application <br>
-To clear database run clear.sh
-
-Alternatively: python manage.py runserver will suffice. 
-
+''' bash 
+##all code and dependencies
+launch.sh &lt;ip address>
+##to run the web application <br>
+clear.sh
+##To clear database 
+'''
+Windows or MAC OS:
+'''bash
+python manage.py runserver will suffice. 
+'''
 ## Radar Subsection Notes
 
 The purpose of this subsystem is to use the HB100 Doppler radar module to detect a rotating fan located underground. A reflected harmonic signal should be received when the rotating fan is under the rover. The radar developed is fully operational and functional with code primarily contained in a radar.h file, however, this was not been integrated fully with other subsystems (as it was not required on demonstration). 
