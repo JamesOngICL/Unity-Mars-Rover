@@ -1,6 +1,6 @@
 # Unity Rover
 
-This repository contains the files developed during the Year 2 End of Year Project (ELEC50008/ELEC50003). The Unity Rover is produced by group IC-CPA2. The project involves several key constituents to be able to simulate a robot which is capable of making autonomous exploration decisions based on the inputs it received through sensors. Here, the constituents include a vision recognizer to identify shape and colour of objects as well as command which sends movement commands through the front end for control of the rover as well as energy, drive and sensor functionalities. 
+This repository contains the files developed during the Year 2 End of Year Project (ELEC50008/ELEC50003). The Unity Rover is produced by group IC-CPA2. The project involves several key constituents to be able to simulate a robot which is capable of making autonomous exploration decisions based on the inputs it received through sensors. Here, the constituents include a vision recognizer to identify shape, type and colour of objects as well as a command web-application which sends movement commands through the front end for control of the rover and to display the progress of the mission of a map. Additionally, we had an energy subsystem to enable the battery pack to be powered by solar panels, drive subsection to ensure the rover can drive in a straight manner and turn angles accurately, with a control subsystem to run an arena traversal algorithm and report data through wifi and internet protocols (TCP-IP) to the web-application. 
 
 **A short video demonstrating the rover's ability to drive straight, turn and identify objects and walls is provided below :**
 
@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/73653114/182037953-e8d1f93e-0e0c-4b1b-
 
 ## Contributors
 
-Our work was coordinated using a flat structure to improve communications and creative thinking. Here, each member decided which subsystem they primarily wanted to develop with all team members working together to integrate the subsystems.  
+Our work was coordinated using a flat structure to improve communications and creative thinking. Here, each member decided which subsystem they primarily wanted to develop with all team members working together to integrate the subsystems. The sections each member worked on is written below. 
 
 James (Command & Control),
 Matthew (Control & Vision),
