@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ong"
+  given-names: "James"
+- family-names: "Setiawan"
+  given-names: "Matthew"
+- family-names: "Louie"
+  given-names: "Charmaine"
+- family-names: "Yau"
+  given-names: "Amy"
+- family-names: "Joshi"
+  given-names: "Himanish"
+- family-names: "Mang"
+  given-names: "Haojian"
+- family-names: "Paczai"
+  given-names: "Milan"
+
+title: "Unity Mars Rover Github"
+version: 2.0.4
+url: "https://github.com/JamesOngICL/Unity-Mars-Rover"
