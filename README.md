@@ -45,7 +45,7 @@ The purpose of this subsystem is to use the HB100 Doppler radar module to detect
 If you wish to use this software please cite it as follows 
 ```bash
 @software{Unity_mars_rover,
-  author = {Ong, James and Setiawan, Matthew and Louie, Charmaine and Mang, Haojian and },
+  author = {Ong, James and Setiawan, Matthew and Louie, Charmaine and Mang, Hao Jian and Joshi, Himanish and Paczai, Milan and Yau, Amy },
   month = {07},
   title = {{Unity Mars Rover Assembly}},
   url = {[https://github.com/github-linguist/linguist](https://github.com/JamesOngICL/Unity-Mars-Rover)},
